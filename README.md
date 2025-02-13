@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm  Vratej Dwivedi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7009C&center=true&vCenter=true&width=500&lines=BBCA+Student+%7C+Aspiring+Software+Engineer;Web+Developer+%7C+UI%2FGraphic+Designer;Lover+of+Cool+Tech+%26+Aesthetic+Designs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7009C&center=true&vCenter=true&width=500&lines=BCA+Student+%7C+Aspiring+Software+Engineer;Web+Developer+%7C+Graphic+Designer;Lover+of+Cool+Tech+%26+Aesthetic+Designs" alt="Typing SVG" />
 </p>
 
 ---
