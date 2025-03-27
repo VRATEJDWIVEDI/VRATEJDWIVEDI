@@ -41,5 +41,5 @@
 ---
 
 <p align="center">
-  🔥 *"Keep creating. Keep innovating. The future is yours!"* 🔥
+  🔥 Keep creating. Keep innovating. The future is yours! 🔥
 </p>
