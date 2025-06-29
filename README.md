@@ -31,6 +31,10 @@
 
 ---
 
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/VRATEJDWIVEDI)
+
+---
+
 ### 📫 *Connect with Me*
 <p align="center">
   <a href="https://www.linkedin.com/in/vratej-dwivedi-740957286"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
