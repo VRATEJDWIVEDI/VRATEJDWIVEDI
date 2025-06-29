@@ -23,7 +23,7 @@
 
 ---
 
-[[Google Developer Profile](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/VRATEJDWIVEDI)
+[![Google Developer Profile](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/VRATEJDWIVEDI)
 
 ---
 
