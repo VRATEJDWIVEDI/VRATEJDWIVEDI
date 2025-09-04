@@ -62,9 +62,15 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vratej-dwivedi-740957286"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:vratejdiwedi000@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"></a>
-  <a href="https://x.com/VratejD65359?t=0ubHNJUMpAy-yNTFj-_9jQ&s=08"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/vratej-dwivedi-740957286">
+    <img src="Frame 1.png" alt="LinkedIn" width="120px"/>
+  </a>
+  <a href="mailto:vratejdiwedi000@gmail.com">
+    <img src="gmail (1).gif" alt="Gmail" width="120px"/>
+  </a>
+  <a href="https://x.com/VratejD65359?t=0ubHNJUMpAy-yNTFj-_9jQ&s=08">
+    <img src="twitterbutton.gif" alt="Twitter" width="120px"/>
+  </a>
 </p>
 
 ---
