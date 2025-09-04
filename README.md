@@ -85,9 +85,9 @@
 <p align="center">
   🔥 Keep creating. Keep innovating. The future is yours! 🔥
 </p>
----
+
 
 <p align="center">
-  <img src="Stamp_Jerma_Coffee.png" width="300px" alt="retro footer gif"/>
+  <img src="Stamp_Jerma_Coffee.png" width="200px" alt="retro footer gif"/>
 </p>
 
