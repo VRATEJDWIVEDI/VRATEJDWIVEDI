@@ -19,10 +19,6 @@
 
 
 ---
-<table>
-  <tr>
-    <td width="60%">
-      
 ### 🚀 About Me
 - 🎨 I do Graphic Design, UI/UX, and Web Development  
 - 🌱 Currently learning Front-end & Back-end Development  
@@ -31,12 +27,7 @@
 - 💻 Tech Stack: Python | Java | HTML | CSS | JavaScript  
 - 🎨 Design Tools: Figma | Canva | Ibis Paint X  
 
-    </td>
-    <td width="40%" align="center">
-      <img src="dance 13.gif" width="250px" alt="retro computer gif"/>
-    </td>
-  </tr>
-</table>
+<img src="dance 13.gif" align="right" width="250px" alt=" gif"/>
 
 ---
 
