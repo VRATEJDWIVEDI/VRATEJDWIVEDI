@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-  <img src="welcome-t.gif" height="50px" alt="welcome gif"/>
+  <img src="welcome-t.gif" height="80px" alt="welcome gif"/>
   I'm Vratej Dwivedi 👋
 </h1>
 
