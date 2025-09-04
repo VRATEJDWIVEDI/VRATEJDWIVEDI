@@ -16,12 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7009C&center=true&vCenter=true&width=500&lines=BCA+Student+%7C+Aspiring+Software+Engineer;Web+Developer+%7C+Graphic+Designer;Lover+of+Cool+Tech+%26+Aesthetic+Designs" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="cmnd.gif" height="30px"/> &nbsp;
-  <img src="computergeek.gif" height="30px"/> &nbsp;
-  <img src="k15.gif" height="30px"/> &nbsp;
-  <img src="tumblr_2ef804456cb2fcd871571f24f9656af3_c473b607_250.webp" height="30px"/>
-</p>
 
 
 ---
