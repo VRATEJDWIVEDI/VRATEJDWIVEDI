@@ -1,6 +1,6 @@
 <p align="center">
   <img src="computer.gif" width="200px" alt="computer"/>
-  <img src="cooltext490187207892835.gif" width="400px" alt="welcome"/>
+  <img src="cooltext490187207892835.gif" width="700px" alt="welcome"/>
   <img src="computer.gif" width="200px" alt="computer"/>
 </p>
 
