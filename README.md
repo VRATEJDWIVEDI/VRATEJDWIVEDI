@@ -6,7 +6,11 @@
 
 
 
-<h1 align="center">Hey there! I'm  Vratej Dwivedi 👋</h1>
+<h1 align="center">
+  <img src="welcome-t.gif" height="40px" alt="welcome gif"/>
+  I'm Vratej Dwivedi 👋
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7009C&center=true&vCenter=true&width=500&lines=BCA+Student+%7C+Aspiring+Software+Engineer;Web+Developer+%7C+Graphic+Designer;Lover+of+Cool+Tech+%26+Aesthetic+Designs" alt="Typing SVG" />
