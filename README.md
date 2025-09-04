@@ -75,6 +75,7 @@
 
 ---
 <p align="center">
+  <img src="471511elpgc0ut0x.gif" height="30px"/> &nbsp;
   <img src="cmnd.gif" height="30px"/> &nbsp;
   <img src="computergeek.gif" height="30px"/> &nbsp;
   <img src="k15.gif" height="30px"/> &nbsp;
