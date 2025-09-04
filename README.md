@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="computer.gif" width="100px" alt="computer"/>
+  <img src="cooltext490187207892835.gif" width="400px" alt="welcome"/>
+  <img src="computer.gif" width="100px" alt="computer"/>
+</p>
+
+
+
 <h1 align="center">Hey there! I'm  Vratej Dwivedi 👋</h1>
 
 <p align="center">
