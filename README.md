@@ -38,6 +38,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="tumblr_674c26e832b48e26f6fbda0d1baaa4da_12d0cd83_640.webp" width="200px" alt=" fire divider"/>
+</p>
+
 ---
 
 ### ⚡ Tech Stack
