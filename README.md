@@ -69,8 +69,11 @@
   <a href="https://www.linkedin.com/in/vratej-dwivedi-740957286">
     <img src="Frame 1.png" alt="LinkedIn" width="120px"/>
   </a>
-  <a href="mailto:vratejdiwedi000@gmail.com">
+   <a href="mailto:vratejdiwedi000@gmail.com">
     <img src="gmail (1).gif" alt="Gmail" width="120px"/>
+  </a>
+  <a href="https://g.dev/VRATEJDWIVEDI">
+    <img src="gdeveloper.png" alt="GoogleDeveloper" width="120px"/>
   </a>
   <a href="https://x.com/VratejD65359?t=0ubHNJUMpAy-yNTFj-_9jQ&s=08">
     <img src="twitterbutton.gif" alt="Twitter" width="120px"/>
