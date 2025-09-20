@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <img src="welcome-t.gif" height="100px" alt="welcome gif"/>
-   <img src="I'mVratejDwivedi.gif" width="400px" alt="computer"/>
+   <img src="flamingtext_com-3128677334.gif" width="400px" alt="computer"/>
 </h1>
 
 
