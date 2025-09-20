@@ -50,8 +50,9 @@
 </p>
 
 ---
-
-[![Google Developer Profile](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/VRATEJDWIVEDI)
+<p align="center">
+  <img src="animbbar.gif" width="900px" alt=" divider"/>
+</p>
 
 ---
 
@@ -82,11 +83,15 @@
 
 ---
 <p align="center">
-  <img src="471511elpgc0ut0x.gif" height="30px"/> &nbsp;
+  <img src="tumblr_cdd2ebb6a201b1335b26b5b15038f799_2a10a53b_250.webp" height="30px"/> &nbsp;
   <img src="cmnd.gif" height="30px"/> &nbsp;
-  <img src="computergeek.gif" height="30px"/> &nbsp;
   <img src="k15.gif" height="30px"/> &nbsp;
   <img src="tumblr_2ef804456cb2fcd871571f24f9656af3_c473b607_250.webp" height="30px"/>
+</p>
+<p align="center">
+  <img src="computergeek.gif" height="30px"/> &nbsp;
+  <img src="471511elpgc0ut0x.gif" height="30px"/> &nbsp;
+
 </p>
 
 <p align="center">
@@ -94,6 +99,9 @@
 </p>
 
 
+<p align="center">
+  <img src="Stamp_Jerma_Coffee.png" width="200px" alt="retro footer gif"/>
+</p>
 <p align="center">
   <img src="Stamp_Jerma_Coffee.png" width="200px" alt="retro footer gif"/>
 </p>
