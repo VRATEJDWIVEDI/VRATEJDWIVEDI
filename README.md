@@ -102,7 +102,4 @@
 <p align="center">
   <img src="Stamp_Jerma_Coffee.png" width="200px" alt="retro footer gif"/>
 </p>
-<p align="center">
-  <img src="Stamp_Jerma_Coffee.png" width="200px" alt="retro footer gif"/>
-</p>
 
