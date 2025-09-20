@@ -6,10 +6,10 @@
 
 
 
-<h1 align="center">
-  <img src="welcome-t.gif" height="100px" alt="welcome gif"/>
+<p align="center">
+   <img src="welcome-t.gif" height="100px" alt="welcome gif"/>
    <img src="flamingtext_com-3128677334.gif" width="400px" alt="computer"/>
-</h1>
+</p>
 
 
 <p align="center">
